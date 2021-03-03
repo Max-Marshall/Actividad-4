@@ -7,7 +7,7 @@
 
 ## Creación de primeras versiones
 
-* Añadidas a la rama [#Primeras Versiones](https://github.com/Max-Marshall/Actividad-4/pull/1)
+* Añadidas a la rama [#Primeras Versiones](https://github.com/Max-Marshall/Actividad-4/pull/2)
 
 ## Inicio del repositorio
 
