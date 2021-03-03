@@ -3,9 +3,11 @@
 
 ## Subida de las últimas versiones
 
-* Añadidas a la etiqueta [#Ultima Version](https://github.com/github/markup/pull/1268)
+* Añadidas a la rama [#Ultimas Versiones](https://github.com/Max-Marshall/Actividad-4/pull/1)
 
 ## Creación de primeras versiones
+
+* Añadidas a la rama [#Primeras Versiones](https://github.com/Max-Marshall/Actividad-4/pull/1)
 
 ## Inicio del repositorio
 
